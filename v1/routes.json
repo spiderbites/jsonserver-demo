@@ -1,0 +1,5 @@
+{
+  "/api/": "/",
+  "/first": "/shows/1",
+  "/venue-search/:venue": "/shows?venue_like=:venue"
+}

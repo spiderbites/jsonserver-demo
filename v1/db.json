@@ -1,0 +1,68 @@
+{
+  "shows": [
+    {
+      "id": 1,
+      "date": "2001-06-04",
+      "venue": "Planet Kensington",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 2,
+      "date": "2001-07-07",
+      "venue": "KOS Diner",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 3,
+      "date": "2001-07-20",
+      "venue": "Bloor JCC",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 4,
+      "date": "2001-08-01",
+      "venue": "Bloor JCC",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 5,
+      "date": "2001-10-05",
+      "venue": "Planet Kensington",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 6,
+      "date": "2001-11-22",
+      "venue": "Q-Bar",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 7,
+      "date": "2001-12-01",
+      "venue": "The Button Factory",
+      "city": "Waterloo",
+      "state": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 8,
+      "date": "2001-12-14",
+      "venue": "The Kathedral",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA"
+    }
+  ]
+}
